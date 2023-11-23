@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## Welcome to my github profile
+🌱 I’m currently learning coding and other things.
 <!--
 **utsaroy/utsaroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
