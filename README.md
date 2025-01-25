@@ -24,8 +24,20 @@ Let’s connect and build something awesome together!
  </br>
  
 <div align="center"> 
-  <a href="https://utsaroy.blogspot.com" target="_blank">
-     <img height=50 src="https://github.com/utsaroy/utsaroy/blob/main/facebook_badge.svg" target="_blank" />
+  <a href="https://linkedin.com/in/utsaroy" target="_blank">
+     <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/linkedin_badge.svg" target="_blank" />
+  </a> 
+    
+  <a href="https://facebook.com/source.u" target="_blank">
+     <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/facebook_badge.svg" target="_blank" />
+  </a> 
+  
+  <a href="https://instagram.com/utsaroy3" target="_blank">
+     <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/instagram_badge.svg" target="_blank" />
+  </a>
+  
+  <a href="https://codeforces.com/utsaroy" target="_blank">
+     <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/codeforces_badge.svg" target="_blank" />
   </a>
 </div>
 
