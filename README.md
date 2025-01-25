@@ -36,7 +36,7 @@ Let’s connect and build something awesome together!
      <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/instagram_badge.svg" target="_blank" />
   </a>
   
-  <a href="https://codeforces.com/utsaroy" target="_blank">
+  <a href="https://codeforces.com/profile/utsaroy" target="_blank">
      <img height=40 src="https://github.com/utsaroy/utsaroy/blob/main/codeforces_badge.svg" target="_blank" />
   </a>
 </div>
