@@ -16,6 +16,9 @@
 
  🎮 Hobbies: **Gaming, photography, and capturing unique moments when I’m not coding.**
  
+ 🤝 Goals: looking forward to collaborating on fun and challenging projects that push boundaries and sharpen my skills!</br>
+Let’s connect and build something awesome together!
+ 
  </div>
 
  </br>
@@ -50,18 +53,6 @@
 <br/>
 
 
-</br>
-</br>
-</br>
-
-<div align="center">
-  <h2>🔝 Top Contributed Repo</h2>
-  <br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=utsaroy&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-  <br/><br/><br/>
-</div>
-
-</br></br></br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -74,17 +65,16 @@
 
 <br/><br/>
 
+<div align="center">
+  <h2>🔝 Top Contributed Repo</h2>
+  <br>
+
+  <a href="#"><img src="https://github-contributor-stats.vercel.app/api?username=utsaroy&limit=5&theme=dark&combine_all_yearly_contributions=true"/></a>
+  <br/><br/><br/>
+</div>
+
 <hr/>
 
-<br/>
-
-
-</br>
-</br>
-</br>
-
+</br></br>
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /></div>
-
-</br>
-</br>
-</br>
+</br></br>
